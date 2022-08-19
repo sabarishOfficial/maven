@@ -1,2 +1,2 @@
-<h1> hi all set it working pipeline project </h1>
+<h1> hi all set  </h1>
 
